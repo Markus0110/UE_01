@@ -2,6 +2,6 @@
 
 Eine selbstständige Übung
 
-## Wir haben leider keine iIdee was wir machen
+## Wir haben leider keine Idee was wir machen
 
 *Ich bitte um hilfe*
