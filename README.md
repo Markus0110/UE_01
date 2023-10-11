@@ -31,9 +31,6 @@ Our Project is a innovative Project of Markus,Christoph and Patrick
 
 Das ist eine anpassung von Markus
 
-04.10.23 : Palmetshofer Patrick hat folgenden Eintrag gemacht : Test1234
-04.10.23: nix geht
-
 
 
 
