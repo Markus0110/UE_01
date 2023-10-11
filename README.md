@@ -32,7 +32,39 @@ Our Project is a innovative Project of Markus,Christoph and Patrick
 Das ist eine anpassung von Markus
 
 
+pwd  
 
+Rm    remove zum deleten 
+
+Ls list verzeichniss 
+
+Cd change direction 
+
+Mkdir etwas anlegen 
+
+Cd .. change directio nach draußen 
+
+Git status      gibt dir den status der files 
+
+Ls –a 
+
+Git add    wählt bestimmtes file aus das mitkommen  
+
+Git rm  rm = remove 
+
+Git commit –m “file name” schickt die fieles aus die ausgewählt wurden 
+
+Git add . Whält alles files aus die mitkommen 
+
+Git push    dasoffline gemachte auf git hub raufladen 
+
+Git clone     datei von git hub auf den rechner runterladen 
+
+Git rm       um ein fille wirklich zu löschen 
+
+Git pull   immer machen bevor man anfängt ob man up to date ist wenn jemand etwas online  
+
+                 geändert hat  
 
 
 
