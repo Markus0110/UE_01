@@ -64,6 +64,16 @@ Git rm       um ein fille wirklich zu löschen
 
 Git pull   immer machen bevor man anfängt ob man up to date ist wenn jemand etwas online  
 
+Git tag “bennenen” 
+
+Git checkout “name des tags” 
+
+Git push origin “tag name”         
+
+Git tag –d “tage name” 
+
+Git push –delete origin “tage name” 
+
                  geändert hat  
 
 
